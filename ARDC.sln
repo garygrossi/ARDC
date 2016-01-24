@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E9EA915E-56A0-4CAA-F701-2512396C7B44}") = "ARDC", "Assembly-CSharp.csproj", "{D638768D-E791-1552-8363-10DFFC97F506}"
+EndProject
+Project("{E9EA915E-56A0-4CAA-F701-2512396C7B44}") = "ARDC", "Assembly-CSharp-Editor.csproj", "{4C91A526-D1D8-54D1-7941-54C020A5288A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D638768D-E791-1552-8363-10DFFC97F506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D638768D-E791-1552-8363-10DFFC97F506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D638768D-E791-1552-8363-10DFFC97F506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D638768D-E791-1552-8363-10DFFC97F506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C91A526-D1D8-54D1-7941-54C020A5288A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C91A526-D1D8-54D1-7941-54C020A5288A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C91A526-D1D8-54D1-7941-54C020A5288A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C91A526-D1D8-54D1-7941-54C020A5288A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
